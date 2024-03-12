@@ -26,14 +26,11 @@ Simply open folder in android studio make sure you have update and sync all file
 
 Snap Shot of android application
 
-![image](https://user-images.githubusercontent.com/78980433/207039130-7c370899-5815-4ed2-878e-0076ff08bac6.png)
-
 ![image](https://user-images.githubusercontent.com/78980433/207039162-ae259567-6266-480d-b435-a07e0a918027.png)
 
 
 ![image](https://user-images.githubusercontent.com/78980433/207039249-5fc544e1-2f18-4ea7-be36-cc2cb3ff8527.png)
 
-![image](https://user-images.githubusercontent.com/78980433/207039286-9175cdd5-e8a2-43a8-880e-9cd45e77bec5.png)
 
 
 
